@@ -1,6 +1,6 @@
 # Check if the given array is subset of another array with duplicates present
 
-Given two arrays, arr1 and arr2, check if arr2 is a subset of arr1. You can assume there are no duplicates in both the arrays.
+Given two arrays, arr1 and arr2, check if arr2 is a subset of arr1. There can be duplicates in both the arrays.
 
 ---
 
