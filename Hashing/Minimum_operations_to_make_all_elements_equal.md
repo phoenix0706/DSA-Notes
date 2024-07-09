@@ -28,11 +28,13 @@ Space Complexity O(1)
 
 ---
 
+### **Best Approach**
+
 Hashing Approach
 
 We can minimize the work done in the above approach by using a hash map. A hash map is nothing but a map that consists of the frequency of all the elements in the array. The highest frequent element in the hash table will be our target element and thus, our answer will be "number of elements - frequency of the target element".
 
-### **Best Approach**
+
 
 #### Java
 

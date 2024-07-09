@@ -80,6 +80,12 @@ We can use the map or set depending on the problem statement.
 
 Here we will be using the unordered map which contains
 
+For every element, we need to check only the last Occurence or the Last index where this element has occurred before. We can use a hashmap which will tell us the Last occurrence where this element has occurred.
+
+We just need to calculate the distance between current Occurence and Last Occurence of Current Element.
+
+If this Distance <= k, we have found a valid pair. We will return true. Otherwise, We will return false because we are now sure that we have not found any valid pair of equal elements whose distance btw them is <= k.
+
 key--> element of an array
 
 value--> index of element in array

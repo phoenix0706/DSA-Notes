@@ -18,6 +18,13 @@ Solutions the questions are provided in Java and Python
    4. [Minimum operations to make all elements equal in an array ](./Hashing/Minimum_operations_to_make_all_elements_equal.md)
    5. [Check if the given array contains duplicate elements within k distance from each other](./array-and-hashing/top-k-frequnt-elements.md)
    6. [Two Sum](./Hashing/Two_sum.md)
+   7. [Maximum and Minimum Frequency](./Hashing/MaxandminFrequency.md)
+   8. [Count all the (i,j) Pairs such that b[i] + b[j] == k (count of such pairs.) [i<j] ](./Hashing/checksumequalsk.md)
+   9. [Count All ((i,j) pairs such that b[i] - b[j] == k (count of such pairs.) [i<j] ](./Hashing/checkdiffequalsk.md)
+   10. [Count Number of Pairs With Absolute Difference K](./Hashing/countpairswithabsK.md)
+   11. [Cumulative Sum Query](./Hashing/cumulativeSum.md)
+   12. [Subarray Sum Equals K](./Hashing/countsubarrayswithsumk.md)
+   13. [Find largest/smallest subarray with sum k in Given Array](./Hashing/longest_or_smallest_subarray_with_sum_k.md)
 
 2. Two Pointers
 
