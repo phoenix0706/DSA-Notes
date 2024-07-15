@@ -25,6 +25,12 @@ Solutions the questions are provided in Java and Python
    11. [Cumulative Sum Query](./Hashing/cumulativeSum.md)
    12. [Subarray Sum Equals K](./Hashing/countsubarrayswithsumk.md)
    13. [Find largest/smallest subarray with sum k in Given Array](./Hashing/longest_or_smallest_subarray_with_sum_k.md)
+   14. [Find count of shortest/largest subarrays with sum k in given array](./Hashing/count_of_largest_shortest_subarrays_with_sum_k.md)
+   15. [First Unique Character in a String](./Hashing/FirstUniqueCharacterinastring.md)
+   16. [Find Common Characters](./Hashing/Findcommoncharacters.md)
+   17. [Longest Consecutive Sequence](./Hashing/longestconsecutivesequence.md)
+   18. [Find the length of largest subarray with 0 sum](./Hashing/findlengthoflargestsubarraywith0sum.md)
+   19. [Count the number of subarrays with given xor K](./Hashing/subarrayswithgivenXOR.md)
 
 2. Two Pointers
 
