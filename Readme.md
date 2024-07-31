@@ -44,6 +44,19 @@ Solutions the questions are provided in Java and Python
 
 6. Binary Search
 
+   1. [Intro TO BS](./BinarySearch/BinarySearchIntro.md)
+   2. [Floor in a Sorted Array](./BinarySearch/Implement_Floor.md)
+   3. [Ceil The Floor Or Floor/Ceil in Sorted Array](./BinarySearch/Implement_UpperBound.md)
+   4. [Search Insert Position ](./BinarySearch/SearchInsertPosition.md)
+   5. [Find First and Last Position of Element in Sorted Array](./BinarySearch/firstandlastoccurence.md)
+   6. [Count Occurrences in Sorted Array](./BinarySearch/count_occurences_of_number.md)
+   7. [Search Element in a Rotated Sorted Array (Without Duplicates)](./BinarySearch/Searchinrotatedsortedarray1.md)
+   8. [Search Element in a Rotated Sorted Array (With Duplicates)](./BinarySearch/searchinrotatedsortedarray2.md)
+   9. [ Minimum in Rotated Sorted Array](./BinarySearch/find_minm_in_rotated_sorted_array.md)
+   10. [Find out how many times has an array been rotated](./BinarySearch/no_of_times_array_is_rotated.md)
+   11. [Single element in a Sorted Array](./BinarySearch/search_single_element_in_sorted_array.md)
+   12. [Find peak element](./BinarySearch/find_peak_element.md)
+
 7. Linked List
 8. Trees
 
