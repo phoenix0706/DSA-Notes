@@ -185,7 +185,6 @@ public class Solution {
 #### Python
 
 ```python
-#User function Template for python3
 
 def find_max_len(arr, target_sum, n):
     prefix_sum_map = {}

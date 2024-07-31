@@ -16,7 +16,7 @@ Solutions the questions are provided in Java and Python
    2. [Check if the given array is subset of another array -Without duplicates](./Hashing/Check_subset.md)
    3. [Check if the given array is subset of another array with duplicates present](./Hashing/check_subset_with_duplicates.md)
    4. [Minimum operations to make all elements equal in an array ](./Hashing/Minimum_operations_to_make_all_elements_equal.md)
-   5. [Check if the given array contains duplicate elements within k distance from each other](./array-and-hashing/top-k-frequnt-elements.md)
+   5. [Check if the given array contains duplicate elements within k distance from each other](./Hashing/array-and-hashing/top-k-frequnt-elements.md)
    6. [Two Sum](./Hashing/Two_sum.md)
    7. [Maximum and Minimum Frequency](./Hashing/MaxandminFrequency.md)
    8. [Count all the (i,j) Pairs such that b[i] + b[j] == k (count of such pairs.) [i<j] ](./Hashing/checksumequalsk.md)
@@ -30,7 +30,9 @@ Solutions the questions are provided in Java and Python
    16. [Find Common Characters](./Hashing/Findcommoncharacters.md)
    17. [Longest Consecutive Sequence](./Hashing/longestconsecutivesequence.md)
    18. [Find the length of largest subarray with 0 sum](./Hashing/findlengthoflargestsubarraywith0sum.md)
-   19. [Count the number of subarrays with given xor K](./Hashing/subarrayswithgivenXOR.md)
+   19. [Count the number of subarrays with given xor K](./Hashing/subarrayswithgivenXOR.md) 20.[Find the Prefix Common Array of Two Arrays](./Hashing/findprefixofcommonarray.md)
+   20. [Longest Sub-Array with Sum K](./Hashing/longestSubbaraywithsumK.md)
+   21. [Longest Palindrome by Concatenating Two Letter Words](./Hashing/Longest%20Palindrome%20by%20concatenating%20two%20words.md)
 
 2. Two Pointers
 
