@@ -31,8 +31,8 @@ Explanation: Your function can return either index number 1 where the peak eleme
 
 ## **Approach**:
 
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](./Images/peak1.png)
+![alt text](./Images/peak2.png)
 
 ## **Solution**:
 
