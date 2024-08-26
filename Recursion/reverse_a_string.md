@@ -34,7 +34,7 @@ Output :
 2. Swap Characters at Indices: Perform the swap operation between the characters at the current left and right indices. This action exchanges the characters at the ends of the string segment being processed, which moves towards reversing the string.
 3. Make Recursive Calls: After swapping, call the recursive function again with updated indices: increment the left index and decrement the right index. This step processes the next pair of characters moving inward until the base case is met.
 
-![alt text](./Images/reversestring.png)
+![alt text](./Images/reverse_of_string.png)
 
 ## **Solution**:
 

@@ -33,7 +33,7 @@ Now single digit is remaining , so we return it.
    2. Compute the remaining number by performing integer division number / 10.
    3. Make a recursive call with the remaining number and add the last digit to the result of this call.
 
-![alt text](./Images/sumnnumbers.png)
+![alt text](./Images/sum_n_digits.png)
 
 ## **Solution**:
 
@@ -67,9 +67,9 @@ class Solution {
 
 ```
 
-Time Complexity: O(N) — The function makes N recursive calls to reach the base case, so the time complexity is proportional to the number of recursive calls
+Time Complexity O(log n) – This is because each recursive call processes a number with fewer digits than the previous call, leading to logarithmic time complexity in terms of the number of digits.
 
-Space Complexity : O(N) — The call stack grows with each recursive call, using N stack frames, so the space complexity is proportional to the depth of recursion.
+Space Complexity O(log n) – This space is required for the recursion stack, which grows with the number of digits in the number.
 
 ---
 

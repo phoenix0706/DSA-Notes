@@ -36,7 +36,7 @@ Output :
 2. In the function, if the number is 0 or 1, return 1 (base case).
 3. Otherwise, return the number multiplied by the factorial of the number minus 1 (recursive case).
 
-![alt text](image-1.png)
+![alt text](./Images/factorial.png)
 
 ## **Solution**:
 
